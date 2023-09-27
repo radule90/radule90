@@ -1,6 +1,10 @@
 # 🛠️ 💻 radule's Coding Saga 📗   
+
+
 From a young age, computers captivated me. I first delved into coding during high school with C++. Although life led me through diverse industries, my inherent passion for programming brought me back in 2022. Now, as a junior full-stack developer and avid comic book collector, I'm wholeheartedly refining my tech skills and venturing into new technologies. My forthcoming projects, influenced by my love for comics, serve as a platform for me to challenge and elevate my capabilities. 🚀  
+
 ---   
+
 ## Languages and Tools ⚙️  
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
